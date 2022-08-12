@@ -1,8 +1,20 @@
 - 👋 Hi, I’m @tykoon787
-- 👀 I’m interested in Android Development, Software Development
-- 🌱 I’m currently learning Kotlin for Android Development
-- 💞️ I’m looking to collaborate on developing Android Apps
-- 📫 How to reach me: WorkEmail: larryevansoduor@gmail.com
+- 👀 I’m interested in Legal Tech, AI. and  Software Development
+- 🌱 Languages: 
+
+C, C++ 
+JavaScript, HTML, CSS
+Angular 
+NodeJS
+ExpressJS 
+Python
+SQL 
+PhP 
+Kotlin 
+
+
+- 💞️ I’m looking to collaborate on Software Development in the Legal Field 
+- 📫 How to reach me: WorkEmail: oduorotienojnr@gmail.com 
 
 <!---
 tykoon787/tykoon787 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
