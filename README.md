@@ -5,8 +5,7 @@
 C, C++ 
 JavaScript, HTML, CSS
 Angular 
-NodeJS
-ExpressJS 
+JavaScript (NodeJS ExpressJS)
 Python
 SQL 
 PhP 
